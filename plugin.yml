@@ -1,0 +1,17 @@
+name: Event
+main: fairuz\Main
+version: 1.0 
+api: 3.0.0
+description: Dilarang Ganti author tanpa izin!
+server: Zuax.mc-server.net    19202
+author: fairuz
+
+commands:
+  event:
+    description: §eEvent 
+    permission: event.command
+
+permissions:
+  event.command:
+    default: true
+    description: §eEvent 
